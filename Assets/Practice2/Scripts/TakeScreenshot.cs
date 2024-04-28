@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Practice1
+namespace Practice2
 {
     public class TakeScreenshot : MonoBehaviour
     {
